@@ -1,0 +1,16 @@
+body{
+
+}
+.nab{
+    height: 100px;
+    width: auto;
+    border: 1px solid darkblue;
+    background: darkcyan;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.body p{
+    text-align: center;
+
+}
